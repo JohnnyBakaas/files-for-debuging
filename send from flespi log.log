@@ -1,0 +1,841 @@
+Terminal log file
+Date: 11.12.2024 - 12:24:09
+-----------------------------------------------
+[2024.12.11 11:24:08]-[N.F]-> PDOP:0.00, HDOP:0.00, Valid:0Q: 0, Sats: 0 Retry: 0
+[2024.12.11 11:24:08]-ECO.DRV EcoDriving not active: Calib: 0, DefAxes: 1, Priority: 1, AXL Source: 1, Ignition: 1
+[2024.12.11 11:24:08]-[SD.API]-> New Job:29
+[2024.12.11 11:24:08]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:1063 stop:0
+[2024.12.11 11:24:08]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:08]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+[2024.12.11 11:24:08]-[APP.SND.D]-> 1 Time until data sending 24
+[2024.12.11 11:24:08]-[TDM]-> LiveIO Addr:163
+[2024.12.11 11:24:08]-[SD.API]-> New Job:29
+[2024.12.11 11:24:08]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:664 stop:0
+[2024.12.11 11:24:08]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:08]-[APP.SND.TCP]-> Rec refresh cnt:3
+[2024.12.11 11:24:09]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+[2024.12.11 11:24:09]-[AXL.CLBR]-> Waiting... (Fix:0 Ign:1 Mov:0 HDOP:1 PDOP:1)
+[2024.12.11 11:24:10]-[APP.SND.TCP]-> Rec refresh cnt:4
+[OverSpeeding]	->Speed is 0!
+[2024.12.11 11:24:11]-[GSM.STATUS]-> [DL]-Enabled:0 Upl 14607060 B Limit 104857600 B
+[2024.12.11 11:24:12]-[APP.SND.TCP]-> Rec refresh cnt:5
+[2024.12.11 11:24:12]-[APP.SND.TCP]-> Active data link TMO: 25 
+[2024.12.11 11:24:13]-ECO.DRV EcoDriving not active: Calib: 0, DefAxes: 1, Priority: 1, AXL Source: 1, Ignition: 1
+[2024.12.11 11:24:13]-[AVL.WRITE]->Record Saved:
+
+[2024.12.11 11:24:13]-[AVL] SOURCE: 0 Ts:1733916253723 Diff:16943 ms
+ HDOP Actual:	0.0
+
+ Timestamp:	1733916253723
+ Priority:	0
+ Longitude:	0
+ Latitude:	0
+ Altitude:	0
+ Angle:		0
+ Sat:		0
+ Speed:		0
+
+
+ Event IO ID:	0
+
+	IO[194]: 1733916254
+	IO[183]: 0
+	IO[186]: 0
+	IO[191]: 0
+	IO[192]: 134595500
+	IO[193]: 62084860
+	IO[184]: 0
+	IO[185]: 1
+	IO[187]: 1
+	IO[188]: 0
+	IO[235]: 3
+	IO[234]: 5SKRIV12
+	IO[233]: FART1234
+	IO[231]: DJ12345
+	IO[189]: 0
+	IO[190]: 0
+	IO[196]: 55605000
+	IO[195]: NO100002
+	IO[222]: 37
+	IO[ 56]: 5559
+	IO[ 57]: 0
+	IO[ 58]: 13136
+	IO[ 59]: 0
+	IO[ 60]: 13136
+	IO[ 61]: 64255
+	IO[ 69]: 508
+	IO[10501]: 15
+	IO[10502]: 0
+	IO[10503]: 1777161600
+	IO[10504]: 1714109700
+	IO[10505]: 1733702400
+	IO[10506]: 1732600080
+	IO[10507]: 0
+	IO[10508]: 0
+	IO[10509]: 900
+	IO[10510]: 0
+	IO[10524]: 540
+	IO[10528]: 540
+	IO[10530]: 900
+	IO[10532]: 270
+	IO[10533]: 600
+	IO[10534]: 3360
+	IO[10538]: 26
+	IO[10539]: 0
+	IO[10540]: 0
+	IO[10541]: 270
+	IO[10518]: HARALD
+	IO[10519]: FRØISLIHAGEN
+	IO[10520]: 
+	IO[10521]: 
+	IO[ 48]: 3
+	IO[  1]: 1
+	IO[ 22]: 1
+	IO[ 67]: 10040
+	IO[ 68]: 0
+	IO[181]: 0
+	IO[182]: 0
+	IO[ 66]: 24114
+	IO[ 71]: 1
+	IO[240]: 1
+	IO[ 24]: 0
+	IO[ 21]: 3
+	IO[1148]: 188120160
+	IO[200]: 0
+	IO[239]: 1
+	IO[10009]: 0
+	IO[123]: 0
+
+ Record Size:	352 Bytes (26,326,0)
+[2024.12.11 11:24:13]-[FLASH]-> Rec Len:352 p:202433c8
+[BATRAM.INFO]:
+Boot Sign:    55FF
+Charge Timer: 2087
+GC Timer:     2747
+Auth Driving: 0
+Restart counters:
+ Low Power: 0
+ WDG:       0
+ Software:  1
+ Power:     0
+ Pin:       0
+ Unknown:   0
+ Total:     1
+[2024.12.11 11:24:13]-[APP.SND.D]-> 1 Time until data sending 19
+[2024.12.11 11:24:13]-[SD.API]-> New Job:2
+[2024.12.11 11:24:13]-[SD.API]-> Save to db:0
+[T.RECMNG] Platform open path: recdb/0/0/3/7/1/1.bin
+[T.RECMNG] Rec saved seq:371151
+
+[T.RECMNG] Offset:28512 attr:0
+
+[T.RECMNG] Platform open path: recdb/0/0/3/7/1/1.inf
+[T.RECMNG] SQ: 3608914|Opt-Size:1312 cnt:82
+
+[2024.12.11 11:24:14]-[SD.API]-> New Job:29
+[2024.12.11 11:24:14]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:1377 stop:0
+[2024.12.11 11:24:14]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:14]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+[2024.12.11 11:24:14]-[SD.API]-> New Job:29
+[2024.12.11 11:24:14]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:865 stop:0
+[2024.12.11 11:24:14]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:14]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+[2024.12.11 11:24:14]-[AXL.CLBR]-> Waiting... (Fix:0 Ign:1 Mov:0 HDOP:1 PDOP:1)
+[2024.12.11 11:24:14]-[SD.API]-> New Job:29
+[2024.12.11 11:24:14]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:434 stop:0
+[2024.12.11 11:24:14]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:14]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-434/434
+[2024.12.11 11:24:14]-[SD.API]-> New Job:29
+[2024.12.11 11:24:14]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:14]-[SD.API]-> New Job:29
+[2024.12.11 11:24:14]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:14]-[SD.API]-> New Job:29
+[2024.12.11 11:24:14]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:14]-[SD.API]-> New Job:29
+[2024.12.11 11:24:14]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:14]-[TDM]-> LiveIO Addr:163
+[2024.12.11 11:24:14]-[SD.API]-> New Job:29
+[2024.12.11 11:24:14]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:47 stop:0
+[2024.12.11 11:24:14]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:15]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-47/47
+[2024.12.11 11:24:15]-[SD.API]-> New Job:29
+[2024.12.11 11:24:15]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:15]-[SD.API]-> New Job:29
+[2024.12.11 11:24:15]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:15]-[SD.API]-> New Job:29
+[2024.12.11 11:24:15]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:15]-[SD.API]-> New Job:29
+[2024.12.11 11:24:15]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:15]-[SD.API]-> New Job:29
+[2024.12.11 11:24:15]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:15]-[SD.API]-> New Job:29
+[2024.12.11 11:24:15]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:15]-[SD.API]-> New Job:29
+[2024.12.11 11:24:15]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:15]-[SD.API]-> New Job:14
+[2024.12.11 11:24:15]-[SD.API]-> New Job:9
+[T.RECMNG] Platform open path: recdb/0/0/3/7/1/1.inf
+[TACHO]  DDD Available: 1, Timers [240:3600][0:300]
+[T.RECMNG] path:recdb/0 min:3608832 max:3608914 minf:3608832 maxf:3608832
+[2024.12.11 11:24:15]-[SD.API]-> Found:0 Srv:0 Filter:1 Count:1 db:0 Time:14
+[2024.12.11 11:24:15]-[SD.API]-> New Job:10
+[2024.12.11 11:24:15]-[SD.API]-> Quick load start from 3608911 Order:3
+[T.RECMNG] Platform open path: recdb/0/0/3/7/1/1.inf
+[T.RECMNG] Platform open path: recdb/0/0/3/7/1/1.inf
+[T.RECMNG] Platform open path: recdb/0/0/3/7/1/1.bin
+[T.RECMNG] Platform open path: recdb/0/0/3/7/1/1.inf
+<<[NRF]AT
+>>[NRF]OK
+[T.RECMNG] Eof
+[2024.12.11 11:24:16]-RS RecordFill Lenght:352 Records:1 Packed db:0
+[2024.12.11 11:24:16]-[APP.SND.TCP]-> Packing Done. TCP/IP Packet Length:[367]
+SOC0.TX:[00000000000001638e0100000193b5765e1b0000000000000000000000000000000000000043001600b70000ba0000b80000b90100bb0100bc0000eb3300bd0000be0000de2529050f290600290e0000300300010100160100470100f00100150300c80000ef01007b00001c00bf0000003815b700390000003a3350003b0000003c3350003dfaff004501fc290b0000290c0000290d0384291c021c2920021c292203842924010e2925025829260d20292a001a292b0000292c0000292d010e004327380044000000b5000000b6000000425e320018000027190000000800c26759765e00c00805c3ac00c103b356fc290769ed55802908662b3d04290967563300290a67456110047c0b367c60000500ea35534b524956313200e9464152543132333400e7444a31323334350000c4353536303530303000c34e4f31303030303200042916000701484152414c442917000d014652d849534c49484147454e29180001002919000100010000150e]
+<<at
+
+[2024.12.11 11:24:16]-[SD.API]-> New Job:29
+[2024.12.11 11:24:16]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:1407 stop:0
+[2024.12.11 11:24:16]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+>>OK
+>>>[2024.12.11 11:24:16]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+>>0,SEND OK
+<<AT+CIPACK=0
+
+>>+CIPACK:7619,7252,367
+>>OK
+[2024.12.11 11:24:16]-[APP.SND.TCP]-> [Data]TCP/IP Data Packet Sent 0nd
+[2024.12.11 11:24:16]-[APP.SND.TCP]-> Waiting for Server Response...
+[2024.12.11 11:24:16]-[SD.API]-> New Job:29
+[2024.12.11 11:24:16]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:1038 stop:0
+[2024.12.11 11:24:16]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:16]-[BAT.POWER.MAN]-> DISCHARGING 329
+[2024.12.11 11:24:16]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+[2024.12.11 11:24:16]-[SD.API]-> New Job:29
+[2024.12.11 11:24:16]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:583 stop:0
+[2024.12.11 11:24:16]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:16]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+>>+CIPRXGET:0
+[2024.12.11 11:24:17]-[MODEM]-> RX HANDLE data pending state
+
+>>+CIPRXGET:2,0,4,0,185.213.2.130:23278
+[2024.12.11 11:24:17]-[MODEM]-> RX HANDLE data receive state
+
+SOC0.RX:[00000001]
+>>OK
+[2024.12.11 11:24:17]-[SD.API]-> New Job:29
+[2024.12.11 11:24:17]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:217 stop:0
+[2024.12.11 11:24:17]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:17]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-217/217
+[2024.12.11 11:24:17]-[SD.API]-> New Job:29
+[2024.12.11 11:24:17]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:17]-[SD.API]-> New Job:29
+[2024.12.11 11:24:17]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:17]-[SD.API]-> New Job:29
+[2024.12.11 11:24:17]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:17]-[SD.API]-> New Job:29
+[2024.12.11 11:24:17]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:17]-[SD.API]-> New Job:29
+[2024.12.11 11:24:17]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:17]-[SD.API]-> New Job:29
+[2024.12.11 11:24:17]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:17]-[SD.API]-> New Job:29
+[2024.12.11 11:24:17]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:17]-[SD.API]-> New Job:29
+[2024.12.11 11:24:17]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:18]-[SD.API]-> New Job:29
+[2024.12.11 11:24:18]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:18]-[SD.API]-> New Job:29
+[2024.12.11 11:24:18]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:18]-[SD.API]-> New Job:29
+[2024.12.11 11:24:18]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:18]-[SD.API]-> New Job:29
+[2024.12.11 11:24:18]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+>>+CIPRXGET:0
+[2024.12.11 11:24:18]-[MODEM]-> RX HANDLE data pending state
+
+>>+CIPRXGET:2,0,38,0,185.213.2.130:23278
+[2024.12.11 11:24:18]-[MODEM]-> RX HANDLE data receive state
+
+SOC0.RX:[000000000000001a0c010500000012303230303030303030303030363430314634010000048d]
+>>OK
+[2024.12.11 11:24:18]-[GPRS.CP]-> ->data routed
+[T.RECMNG] Platform open path: com2db/0/0/0/0/0/0.inf
+[2024.12.11 11:24:18]-[SD.API]-> New Job:29
+[2024.12.11 11:24:18]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:318 stop:0
+[2024.12.11 11:24:18]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:18]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-318/318
+[2024.12.11 11:24:18]-[DATA.SENDER]-> no messages
+[2024.12.11 11:24:18]-ECO.DRV EcoDriving not active: Calib: 0, DefAxes: 1, Priority: 1, AXL Source: 1, Ignition: 1
+[T.RECMNG] Platform open path: com2db/0/0/0/0/0/0.inf
+[2024.12.11 11:24:18]-[N.F]-> PDOP:0.00, HDOP:0.00, Valid:0Q: 0, Sats: 0 Retry: 0
+[2024.12.11 11:24:18]-[SD.API]-> New Job:29
+[2024.12.11 11:24:18]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:305 stop:0
+[2024.12.11 11:24:18]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:18]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-305/305
+[2024.12.11 11:24:18]-[DATA.SENDER]-> no messages
+[2024.12.11 11:24:18]-[APP.SND.D]-> 1 Time until data sending 14
+[2024.12.11 11:24:18]-[SD.API]-> New Job:29
+[2024.12.11 11:24:18]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:117 stop:0
+[2024.12.11 11:24:18]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:18]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-117/117
+[2024.12.11 11:24:19]-[SD.API]-> New Job:29
+[2024.12.11 11:24:19]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:19]-[SD.API]-> New Job:29
+[2024.12.11 11:24:19]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:19]-[SD.API]-> New Job:29
+[2024.12.11 11:24:19]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:19]-[AXL.CLBR]-> Waiting... (Fix:0 Ign:1 Mov:0 HDOP:1 PDOP:1)
+[2024.12.11 11:24:19]-[SD.API]-> New Job:29
+[2024.12.11 11:24:19]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:81 stop:0
+[2024.12.11 11:24:19]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:19]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-81/81
+[2024.12.11 11:24:19]-[SD.API]-> New Job:29
+[2024.12.11 11:24:19]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:19]-[SD.API]-> New Job:29
+[2024.12.11 11:24:19]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:19]-[SD.API]-> New Job:29
+[2024.12.11 11:24:19]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:19]-[SD.API]-> New Job:29
+[2024.12.11 11:24:19]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:20]-[SD.API]-> New Job:11
+[T.RECMNG] Platform open path: recdb/0/0/3/7/1/1.inf
+[2024.12.11 11:24:20]-[SD.API]-> Deleted 2 Records Mark:3
+[2024.12.11 11:24:20]-[APP.SND.TCP]-> AVL Records deleted Successfully
+[2024.12.11 11:24:20]-[SD.API]-> New Job:10
+[2024.12.11 11:24:20]-[SD.API]-> Quick load start from 3608913 Order:3
+[T.RECMNG] Platform open path: recdb/0/0/3/7/1/1.inf
+[T.RECMNG] Eof
+[2024.12.11 11:24:20]-RS RecordFill Lenght:0 Records:0 Packed db:0
+[2024.12.11 11:24:21]-[TDM]-> LiveIO Addr:163
+[2024.12.11 11:24:21]-[APP.SND.TCP]-> Rec refresh cnt:1
+[2024.12.11 11:24:21]-[GEO.OVERSPEED] Speed for GeofeceDoutTrackingDesc[0]: 90
+>>+CIPRXGET:0
+[2024.12.11 11:24:22]-[MODEM]-> RX HANDLE data pending state
+
+>>+CIPRXGET:2,0,38,0,185.213.2.130:23278
+[2024.12.11 11:24:22]-[MODEM]-> RX HANDLE data receive state
+
+SOC0.RX:[000000000000001a0c010500000012303230303030303030303030363430314634010000048d]
+>>OK
+[2024.12.11 11:24:22]-[GPRS.CP]-> ->data routed
+[T.RECMNG] Platform open path: com2db/0/0/0/0/0/0.inf
+[2024.12.11 11:24:22]-[DATA.SENDER]-> no messages
+[T.RECMNG] Platform open path: com2db/0/0/0/0/0/0.inf
+[2024.12.11 11:24:22]-[DATA.SENDER]-> no messages
+[2024.12.11 11:24:22]-[SD.API]-> New Job:29
+[2024.12.11 11:24:22]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:1054 stop:0
+[2024.12.11 11:24:22]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:22]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+[2024.12.11 11:24:22]-[SD.API]-> New Job:29
+[2024.12.11 11:24:22]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:542 stop:0
+[2024.12.11 11:24:22]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:23]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+[2024.12.11 11:24:23]-ECO.DRV EcoDriving not active: Calib: 0, DefAxes: 1, Priority: 1, AXL Source: 1, Ignition: 1
+[2024.12.11 11:24:23]-[APP.SND.TCP]-> Rec refresh cnt:2
+[Flash.Driver]-> Area:0 Write Count:8232
+[2024.12.11 11:24:23]-[APP.SND.D]-> 1 Time until data sending 27
+[2024.12.11 11:24:24]-[AXL.CLBR]-> Waiting... (Fix:0 Ign:1 Mov:0 HDOP:1 PDOP:1)
+[2024.12.11 11:24:25]-[APP.SND.TCP]-> Rec refresh cnt:3
+>>+CIPRXGET:0
+[2024.12.11 11:24:26]-[MODEM]-> RX HANDLE data pending state
+
+>>+CIPRXGET:2,0,38,0,185.213.2.130:23278
+[2024.12.11 11:24:26]-[MODEM]-> RX HANDLE data receive state
+
+SOC0.RX:[000000000000001a0c010500000012303230303030303030303030363430314634010000048d]
+>>OK
+[2024.12.11 11:24:26]-[GPRS.CP]-> ->data routed
+[T.RECMNG] Platform open path: com2db/0/0/0/0/0/0.inf
+[2024.12.11 11:24:26]-[DATA.SENDER]-> no messages
+[T.RECMNG] Platform open path: com2db/0/0/0/0/0/0.inf
+[2024.12.11 11:24:26]-[DATA.SENDER]-> no messages
+[2024.12.11 11:24:27]-[TDM]-> LiveIO Addr:163
+[2024.12.11 11:24:27]-[APP.SND.TCP]-> Rec refresh cnt:4
+[2024.12.11 11:24:27]-[SD.API]-> New Job:29
+[2024.12.11 11:24:27]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:1028 stop:0
+[2024.12.11 11:24:27]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:27]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+[2024.12.11 11:24:27]-[SD.API]-> New Job:29
+[2024.12.11 11:24:27]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:516 stop:0
+[2024.12.11 11:24:27]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:27]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+[2024.12.11 11:24:28]-ECO.DRV EcoDriving not active: Calib: 0, DefAxes: 1, Priority: 1, AXL Source: 1, Ignition: 1
+[2024.12.11 11:24:28]-[N.F]-> PDOP:0.00, HDOP:0.00, Valid:0Q: 0, Sats: 0 Retry: 0
+[2024.12.11 11:24:28]-[APP.SND.D]-> 1 Time until data sending 22
+[2024.12.11 11:24:29]-[AXL.CLBR]-> Waiting... (Fix:0 Ign:1 Mov:0 HDOP:1 PDOP:1)
+[2024.12.11 11:24:29]-[APP.SND.TCP]-> Rec refresh cnt:5
+[2024.12.11 11:24:29]-[APP.SND.TCP]-> Active data link TMO: 25 
+>>+CIPRXGET:0
+[2024.12.11 11:24:30]-[MODEM]-> RX HANDLE data pending state
+
+>>+CIPRXGET:2,0,38,0,185.213.2.130:23278
+[2024.12.11 11:24:30]-[MODEM]-> RX HANDLE data receive state
+
+SOC0.RX:[000000000000001a0c010500000012303230303030303030303030363430314634010000048d]
+>>OK
+[2024.12.11 11:24:30]-[GPRS.CP]-> ->data routed
+[T.RECMNG] Platform open path: com2db/0/0/0/0/0/0.inf
+[2024.12.11 11:24:30]-[DATA.SENDER]-> no messages
+[T.RECMNG] Platform open path: com2db/0/0/0/0/0/0.inf
+[2024.12.11 11:24:30]-[DATA.SENDER]-> no messages
+<<[NRF]AT
+>>[NRF]OK
+[2024.12.11 11:24:31]-[APP.SND.TCP]-> Rec refresh cnt:6
+[2024.12.11 11:24:33]-ECO.DRV EcoDriving not active: Calib: 0, DefAxes: 1, Priority: 1, AXL Source: 1, Ignition: 1
+[2024.12.11 11:24:33]-[SD.API]-> New Job:29
+[2024.12.11 11:24:33]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:1120 stop:0
+[2024.12.11 11:24:33]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:33]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+[2024.12.11 11:24:33]-[SD.API]-> New Job:29
+[2024.12.11 11:24:33]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:608 stop:0
+[2024.12.11 11:24:33]-[TDM]-> LiveIO Addr:163
+[2024.12.11 11:24:33]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:33]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+[2024.12.11 11:24:33]-[APP.SND.TCP]-> Rec refresh cnt:7
+[2024.12.11 11:24:33]-[1-Wire] OneWire Health @:400
+	Run:5992
+	Found:0
+	NotFoundAll:5991
+	NotFound Until Bus Reset:5991
+	T Run:0
+	T Success:0
+	T Conv Fail:0
+	T Read Fail:0
+	Short:1
+	Not Release:0
+	Wrong CRC:0
+	NotFound:5992
+[2024.12.11 11:24:33]-[APP.SND.D]-> 1 Time until data sending 17
+[2024.12.11 11:24:34]-[AXL.CLBR]-> Waiting... (Fix:0 Ign:1 Mov:0 HDOP:1 PDOP:1)
+[2024.12.11 11:24:35]-[APP.SND.TCP]-> Rec refresh cnt:8
+[OverSpeeding]	->Speed is 0!
+[TACHO]  DDD Available: 1, Timers [260:3600][0:300]
+[2024.12.11 11:24:37]-[APP.SND.TCP]-> Rec refresh cnt:9
+[2024.12.11 11:24:38]-ECO.DRV EcoDriving not active: Calib: 0, DefAxes: 1, Priority: 1, AXL Source: 1, Ignition: 1
+[2024.12.11 11:24:38]-[N.F]-> PDOP:0.00, HDOP:0.00, Valid:0Q: 0, Sats: 0 Retry: 0
+[2024.12.11 11:24:38]-[APP.SND.D]-> 1 Time until data sending 12
+[2024.12.11 11:24:39]-[AXL.CLBR]-> Waiting... (Fix:0 Ign:1 Mov:0 HDOP:1 PDOP:1)
+[2024.12.11 11:24:39]-[SD.API]-> New Job:29
+[2024.12.11 11:24:39]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:1073 stop:0
+[2024.12.11 11:24:39]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:39]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+[2024.12.11 11:24:39]-[SD.API]-> New Job:29
+[2024.12.11 11:24:39]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:561 stop:0
+[2024.12.11 11:24:39]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:39]-[APP.SND.TCP]-> Rec refresh cnt:10
+[2024.12.11 11:24:39]-[APP.SND.TCP]-> Active data link TMO: 20 
+[2024.12.11 11:24:39]-[TDM]-> LiveIO Addr:163
+[2024.12.11 11:24:39]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+[2024.12.11 11:24:41]-[APP.SND.TCP]-> Rec refresh cnt:11
+[2024.12.11 11:24:41]-[GEO.OVERSPEED] Speed for GeofeceDoutTrackingDesc[0]: 90
+[2024.12.11 11:24:41]-[GSM.STATUS]-> [DL]-Enabled:0 Upl 14607060 B Limit 104857600 B
+[2024.12.11 11:24:43]-ECO.DRV EcoDriving not active: Calib: 0, DefAxes: 1, Priority: 1, AXL Source: 1, Ignition: 1
+>>+CIPRXGET:0
+[2024.12.11 11:24:43]-[MODEM]-> RX HANDLE data pending state
+
+>>+CIPRXGET:2,0,38,0,185.213.2.130:23278
+[2024.12.11 11:24:43]-[MODEM]-> RX HANDLE data receive state
+
+SOC0.RX:[000000000000001a0c010500000012303230303030303030303030363430314634010000048d]
+>>OK
+[2024.12.11 11:24:43]-[GPRS.CP]-> ->data routed
+[T.RECMNG] Platform open path: com2db/0/0/0/0/0/0.inf
+[2024.12.11 11:24:43]-[DATA.SENDER]-> no messages
+[T.RECMNG] Platform open path: com2db/0/0/0/0/0/0.inf
+[2024.12.11 11:24:43]-[DATA.SENDER]-> no messages
+[2024.12.11 11:24:43]-[SD.API]-> New Job:29
+[2024.12.11 11:24:43]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:1034 stop:0
+[2024.12.11 11:24:43]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:43]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+[2024.12.11 11:24:43]-[SD.API]-> New Job:29
+[2024.12.11 11:24:43]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:522 stop:0
+[2024.12.11 11:24:43]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:43]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+[2024.12.11 11:24:43]-[APP.SND.TCP]-> Rec refresh cnt:12
+[2024.12.11 11:24:43]-[AVL.WRITE]->Record Saved:
+
+[2024.12.11 11:24:43]-[AVL] SOURCE: 0 Ts:1733916283726 Diff:30003 ms
+ HDOP Actual:	0.0
+
+ Timestamp:	1733916283726
+ Priority:	0
+ Longitude:	0
+ Latitude:	0
+ Altitude:	0
+ Angle:		0
+ Sat:		0
+ Speed:		0
+
+
+ Event IO ID:	0
+
+	IO[194]: 1733916285
+	IO[183]: 0
+	IO[186]: 0
+	IO[191]: 0
+	IO[192]: 134595500
+	IO[193]: 62084860
+	IO[184]: 0
+	IO[185]: 1
+	IO[187]: 1
+	IO[188]: 0
+	IO[235]: 3
+	IO[234]: 5SKRIV12
+	IO[233]: FART1234
+	IO[231]: DJ12345
+	IO[189]: 0
+	IO[190]: 0
+	IO[196]: 55605000
+	IO[195]: NO100002
+	IO[222]: 37
+	IO[ 56]: 5559
+	IO[ 57]: 0
+	IO[ 58]: 13136
+	IO[ 59]: 0
+	IO[ 60]: 13136
+	IO[ 61]: 64255
+	IO[ 69]: 508
+	IO[10501]: 15
+	IO[10502]: 0
+	IO[10503]: 1777161600
+	IO[10504]: 1714109700
+	IO[10505]: 1733702400
+	IO[10506]: 1732600080
+	IO[10507]: 0
+	IO[10508]: 0
+	IO[10509]: 900
+	IO[10510]: 0
+	IO[10524]: 540
+	IO[10528]: 540
+	IO[10530]: 900
+	IO[10532]: 270
+	IO[10533]: 600
+	IO[10534]: 3360
+	IO[10538]: 26
+	IO[10539]: 0
+	IO[10540]: 0
+	IO[10541]: 270
+	IO[10518]: HARALD
+	IO[10519]: FRØISLIHAGEN
+	IO[10520]: 
+	IO[10521]: 
+	IO[ 48]: 3
+	IO[  1]: 1
+	IO[ 22]: 1
+	IO[ 67]: 10046
+	IO[ 68]: 0
+	IO[181]: 0
+	IO[182]: 0
+	IO[ 66]: 24127
+	IO[ 71]: 1
+	IO[240]: 1
+	IO[ 24]: 0
+	IO[ 21]: 3
+	IO[1148]: 188120160
+	IO[200]: 0
+	IO[239]: 1
+	IO[10009]: 0
+	IO[123]: 0
+
+ Record Size:	352 Bytes (26,326,0)
+[2024.12.11 11:24:43]-[FLASH]-> Rec Len:352 p:202433c8
+[2024.12.11 11:24:43]-[APP.SND.D]-> 1 Time until data sending 7
+[2024.12.11 11:24:43]-[SCH]->  PMinC:100 Ign:1 GPS st:1 Point:0.000000,0.000000 speed:0 date: 2000/1/1 0:0:0 Freq:1000
+[2024.12.11 11:24:43]-[SD.API]-> New Job:2
+[2024.12.11 11:24:43]-[SD.API]-> Save to db:0
+[T.RECMNG] Platform open path: recdb/0/0/3/7/1/1.bin
+[T.RECMNG] Rec saved seq:371152
+
+[T.RECMNG] Offset:28864 attr:0
+
+[T.RECMNG] Platform open path: recdb/0/0/3/7/1/1.inf
+[T.RECMNG] SQ: 3608915|Opt-Size:1328 cnt:83
+
+[2024.12.11 11:24:44]-[SD.API]-> New Job:14
+[2024.12.11 11:24:44]-[APP.SND.TCP]-> New Rec Event
+[2024.12.11 11:24:44]-[SD.API]-> New Job:9
+[T.RECMNG] Platform open path: recdb/0/0/3/7/1/1.inf
+[T.RECMNG] path:recdb/0 min:3608832 max:3608915 minf:3608832 maxf:3608832
+[2024.12.11 11:24:44]-[SD.API]-> Found:0 Srv:0 Filter:1 Count:1 db:0 Time:12
+[2024.12.11 11:24:44]-RS Found:1 on iFlash
+[2024.12.11 11:24:44]-RS Records found: 1
+[2024.12.11 11:24:44]-RS New LOW Priority Data Available
+[2024.12.11 11:24:44]-[SD.API]-> New Job:29
+[2024.12.11 11:24:44]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:1052 stop:0
+[2024.12.11 11:24:44]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:44]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+[2024.12.11 11:24:44]-[AXL.CLBR]-> Waiting... (Fix:0 Ign:1 Mov:0 HDOP:1 PDOP:1)
+[2024.12.11 11:24:44]-[SD.API]-> New Job:29
+[2024.12.11 11:24:44]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:621 stop:0
+[2024.12.11 11:24:44]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:44]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+[2024.12.11 11:24:44]-[SD.API]-> New Job:14
+[2024.12.11 11:24:44]-[SD.API]-> New Job:9
+[T.RECMNG] Platform open path: recdb/0/0/3/7/1/1.inf
+[T.RECMNG] path:recdb/0 min:3608832 max:3608915 minf:3608832 maxf:3608832
+[2024.12.11 11:24:44]-[SD.API]-> Found:0 Srv:0 Filter:1 Count:1 db:0 Time:12
+[2024.12.11 11:24:44]-[SD.API]-> New Job:10
+[2024.12.11 11:24:44]-[SD.API]-> Quick load start from 3608913 Order:3
+[T.RECMNG] Platform open path: recdb/0/0/3/7/1/1.inf
+[2024.12.11 11:24:44]-[GEO.OVERSPEED] Speed for GeofeceDoutTrackingDesc[0]: 90
+<<at
+
+[T.RECMNG] Platform open path: recdb/0/0/3/7/1/1.inf
+>>OK
+<<at
+
+[T.RECMNG] Platform open path: recdb/0/0/3/7/1/1.bin
+>>OK
+<<AT
+
+[T.RECMNG] Platform open path: recdb/0/0/3/7/1/1.inf
+>>OK
+<<AT+CREG?
+
+[T.RECMNG] Eof
+>>+CREG: 2,1,"0aea","01f11621",7
+>>OK
+<<AT+CEREG?
+
+>>+CEREG: 2,1,"0aea","01f11621",7
+>>OK
+<<AT+CGREG?
+
+>>+CGREG: 2,1,"0AEA","01F1"
+>>OK
+<<AT+CSQ
+
+>>+CSQ: 11,99
+[2024.12.11 11:24:44]-[MODEM]-> Signal rssi 11
+>>OK
+<<AT+QCSQ
+
+>>+QCSQ: "LTE",-91,-123,54,-12
+>>OK
+<<AT+QNWINFO
+
+>>+QNWINFO: "FDD LTE","24202","LTE BAND 1",100
+[2024.12.11 11:24:45]-[MODEM]-> Access Technology:FDD LTE
+[2024.12.11 11:24:45]-[MODEM]-> Operator:24202
+[2024.12.11 11:24:45]-[MODEM]-> Band:LTE BAND 1
+[2024.12.11 11:24:45]-[MODEM]-> Channel:100
+>>OK
+<<AT+COPS?
+
+[2024.12.11 11:24:45]-[SD.API]-> New Job:1
+[2024.12.11 11:24:45]-[SD.API]-> Starting SD card initialization.
+[2024.12.11 11:24:45]-RS RecordFill Lenght:352 Records:1 Packed db:0
+[2024.12.11 11:24:45]-[APP.SND.TCP]-> Packing Done. TCP/IP Packet Length:[367]
+SOC0.TX:[00000000000001638e0100000193b576d34e0000000000000000000000000000000000000043001600b70000ba0000b80000b90100bb0100bc0000eb3300bd0000be0000de2529050f290600290e0000300300010100160100470100f00100150300c80000ef01007b00001c00bf0000003815b700390000003a3350003b0000003c3350003dfaff004501fc290b0000290c0000290d0384291c021c2920021c292203842924010e2925025829260d20292a001a292b0000292c0000292d010e0043273e0044000000b5000000b6000000425e3f0018000027190000000800c26759767d00c00805c3ac00c103b356fc290769ed55802908662b3d04290967563300290a67456110047c0b367c60000500ea35534b524956313200e9464152543132333400e7444a31323334350000c4353536303530303000c34e4f31303030303200042916000701484152414c442917000d014652d849534c49484147454e291800010029190001000100009870]
+SD.Init->1
+SD.Init->End
+Card TYPE:0
+[2024.12.11 11:24:45]-[SD.API]-> SD card mount not OK. FATRES: 3
+[2024.12.11 11:24:45]-[SD.API]-> New Job:29
+[2024.12.11 11:24:45]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:1950 stop:0
+[2024.12.11 11:24:45]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:45]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+[2024.12.11 11:24:45]-[SD.API]-> New Job:29
+[2024.12.11 11:24:45]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:1438 stop:0
+[2024.12.11 11:24:45]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:45]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+<<[NRF]AT
+>>[NRF]OK
+[2024.12.11 11:24:45]-[SD.API]-> New Job:29
+[2024.12.11 11:24:45]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:926 stop:0
+[2024.12.11 11:24:45]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:45]-[TDM]-> LiveIO Addr:163
+[2024.12.11 11:24:46]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+>>[NRF]+DIAGINFO:0,0,0,0
+[2024.12.11 11:24:46]-[SD.API]-> New Job:29
+[2024.12.11 11:24:46]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:461 stop:0
+[2024.12.11 11:24:46]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:46]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-461/461
+[2024.12.11 11:24:46]-[SD.API]-> New Job:29
+[2024.12.11 11:24:46]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:46]-[SD.API]-> New Job:29
+[2024.12.11 11:24:46]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:46]-[SD.API]-> New Job:29
+[2024.12.11 11:24:46]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:46]-[SD.API]-> New Job:29
+[2024.12.11 11:24:46]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+>>+COPS: 0,2,"24202",7
+[2024.12.11 11:24:46]-[MODEM]-> GSM Op:24202 Net:7
+>>OK
+<<at
+
+>>OK
+>>>[2024.12.11 11:24:46]-[SD.API]-> New Job:29
+[2024.12.11 11:24:46]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:52 stop:0
+[2024.12.11 11:24:46]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+>>0,SEND OK
+<<AT+CIPACK=0
+
+[2024.12.11 11:24:46]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-52/52
+>>+CIPACK:7986,7619,367
+>>OK
+[2024.12.11 11:24:46]-[APP.SND.TCP]-> [Data]TCP/IP Data Packet Sent 0nd
+[2024.12.11 11:24:46]-[APP.SND.TCP]-> Waiting for Server Response...
+<<AT+CPAS
+
+>>+CPAS: 0
+>>OK
+<<AT+CPIN?
+
+[2024.12.11 11:24:47]-[SD.API]-> New Job:29
+[2024.12.11 11:24:47]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:143 stop:0
+[2024.12.11 11:24:47]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:47]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-143/143
+>>+CIPRXGET:0
+[2024.12.11 11:24:47]-[MODEM]-> RX HANDLE data pending state
+
+>>+CPIN: READY
+>>OK
+[2024.12.11 11:24:47]-[SD.API]-> New Job:29
+[2024.12.11 11:24:47]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:63 stop:0
+<<AT+CIMI
+
+[2024.12.11 11:24:47]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:47]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-63/63
+>>242029200062993
+>>OK
+<<AT+CSCA?
+
+[2024.12.11 11:24:47]-[SD.API]-> New Job:29
+[2024.12.11 11:24:47]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+>>+CSCA: "+4792001168",145
+>>OK
+<<AT+QLTS=1
+
+>>+QLTS: "2024/12/11,11:24:49+04,0"
+[2024.12.11 11:24:47]-[TIME]->  NITZ time 1733916289 ignored gps-fix:0
+>>OK
+[2024.12.11 11:24:47]-[GSM.STATUS]-> 2 Registration Mode: (2/7) (242027/24202)
+[MODEM.STATUS]
+
+	Modem Power    : 1(1,0,0,1)
+	Modem State    : 0
+	Data Link      : 1
+	GPRS Status    : 1/687sec
+	Phone Status   : 0
+	SIM PIN        : 0
+	PIN Attemts    : 3
+	GSM Operator   : 24202(7)
+	OP in Blac list: 0
+	Bat. Charge    : 0
+	GSM Signal     : 3
+	Service        : 0
+	New Message    : 0
+	Roaming        : 0
+	SMS Full       : 0
+	Voice Call     : 0
+	Cell ID        : 32577057
+	Area Code      : 2794
+	MCC            : 242
+	MNC            : 2
+	Network Type   : 2
+
+	CSQ Level   : 11
+	QCSQ (rssi) : -91 dBm
+	QCSQ (rsrp) : -123 dBm
+	QCSQ (sinr) : -9.2 dB
+	QCSQ (rsrq) : -12 dB
+	NoSIM/BadCnt    : 0
+	SIM:0 SingleSIM: 1
+
+[2024.12.11 11:24:47]-[GSM.STATUS]-> Prev Operator:24202 res:1 reconnect:0
+<<AT+CMGL=4
+
+[2024.12.11 11:24:47]-[SD.API]-> New Job:29
+[2024.12.11 11:24:47]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:852 stop:0
+>>OK
+[2024.12.11 11:24:47]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+>>+CIPRXGET:2,0,4,0,185.213.2.130:23278
+[2024.12.11 11:24:47]-[MODEM]-> RX HANDLE data receive state
+
+SOC0.RX:[00000001]
+>>OK
+[2024.12.11 11:24:47]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+[2024.12.11 11:24:47]-[SD.API]-> New Job:29
+[2024.12.11 11:24:47]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:423 stop:0
+[2024.12.11 11:24:47]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:47]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-423/423
+[2024.12.11 11:24:47]-[SD.API]-> New Job:29
+[2024.12.11 11:24:47]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:47]-[SD.API]-> New Job:29
+[2024.12.11 11:24:47]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:47]-[SD.API]-> New Job:29
+[2024.12.11 11:24:47]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:47]-[SD.API]-> New Job:29
+[2024.12.11 11:24:47]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:48]-[SD.API]-> New Job:29
+[2024.12.11 11:24:48]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:48]-[SD.API]-> New Job:29
+[2024.12.11 11:24:48]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:48]-[SD.API]-> New Job:29
+[2024.12.11 11:24:48]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:48]-[SD.API]-> New Job:29
+[2024.12.11 11:24:48]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:48]-ECO.DRV EcoDriving not active: Calib: 0, DefAxes: 1, Priority: 1, AXL Source: 1, Ignition: 1
+[2024.12.11 11:24:48]-[SD.API]-> New Job:29
+[2024.12.11 11:24:48]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:116 stop:0
+[2024.12.11 11:24:48]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:48]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-116/116
+[2024.12.11 11:24:48]-[N.F]-> PDOP:0.00, HDOP:0.00, Valid:0Q: 0, Sats: 0 Retry: 0
+[2024.12.11 11:24:48]-[SD.API]-> New Job:29
+[2024.12.11 11:24:48]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:83 stop:0
+[2024.12.11 11:24:48]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:48]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-83/83
+[2024.12.11 11:24:48]-[SD.API]-> New Job:29
+[2024.12.11 11:24:48]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:48]-[SD.API]-> New Job:29
+[2024.12.11 11:24:48]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:0 stop:0
+[2024.12.11 11:24:48]-[APP.SND.D]-> 1 Time until data sending 2
+[2024.12.11 11:24:48]-[SD.API]-> New Job:11
+[T.RECMNG] Platform open path: recdb/0/0/3/7/1/1.inf
+[2024.12.11 11:24:48]-[SD.API]-> Deleted 2 Records Mark:3
+[2024.12.11 11:24:48]-[APP.SND.TCP]-> AVL Records deleted Successfully
+[2024.12.11 11:24:48]-[SD.API]-> New Job:10
+[2024.12.11 11:24:48]-[SD.API]-> Quick load start from 3608914 Order:3
+[T.RECMNG] Platform open path: recdb/0/0/3/7/1/1.inf
+[T.RECMNG] Eof
+[2024.12.11 11:24:49]-[AXL.CLBR]-> Waiting... (Fix:0 Ign:1 Mov:0 HDOP:1 PDOP:1)
+[2024.12.11 11:24:49]-RS RecordFill Lenght:0 Records:0 Packed db:0
+[TACHO]  Driver0 80400 until reset
+[2024.12.11 11:24:50]-[APP.SND.TCP]-> Rec refresh cnt:1
+>>+CIPRXGET:0
+[2024.12.11 11:24:50]-[MODEM]-> RX HANDLE data pending state
+
+>>+CIPRXGET:2,0,38,0,185.213.2.130:23278
+[2024.12.11 11:24:50]-[MODEM]-> RX HANDLE data receive state
+
+SOC0.RX:[000000000000001a0c010500000012303230303030303030303030363430314634010000048d]
+>>OK
+[2024.12.11 11:24:50]-[GPRS.CP]-> ->data routed
+[T.RECMNG] Platform open path: com2db/0/0/0/0/0/0.inf
+[2024.12.11 11:24:50]-[DATA.SENDER]-> no messages
+[T.RECMNG] Platform open path: com2db/0/0/0/0/0/0.inf
+[2024.12.11 11:24:50]-[DATA.SENDER]-> no messages
+[2024.12.11 11:24:50]-[SD.API]-> New Job:29
+[2024.12.11 11:24:50]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:1073 stop:0
+[2024.12.11 11:24:50]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:50]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+[2024.12.11 11:24:50]-[SD.API]-> New Job:29
+[2024.12.11 11:24:50]-[LOG2SD]-> M2M_LOG2SD_WriteLog:20231f98 sz:561 stop:0
+[2024.12.11 11:24:50]-[FS]-> M2M_FS_FileOpen:Log/C/2.dmp:0
+[2024.12.11 11:24:50]-[LOG2SD]-> SDLOG[Log/C/2.dmp]-512/512
+[2024.12.11 11:24:51]-[SD.API]-> New Job:9
+[T.RECMNG] Platform open path: recdb/0/0/3/7/1/1.inf
+[T.RECMNG] path:recdb/0 min:3608832 max:3608915 minf:3608832 maxf:3608832
+[2024.12.11 11:24:51]-[SD.API]-> Found:0 Srv:0 Filter:1 Count:0 db:0 Time:12
+[2024.12.11 11:24:51]-RS Found:0 on iFlash
+[2024.12.11 11:24:51]-RS Min LOW Prio Rec to Send: 1
+[2024.12.11 11:24:52]-[TDM]-> LiveIO Addr:163
+[2024.12.11 11:24:52]-[APP.SND.TCP]-> Rec refresh cnt:2
+[2024.12.11 11:24:53]-ECO.DRV EcoDriving not active: Calib: 0, DefAxes: 1, Priority: 1, AXL Source: 1, Ignition: 1
+[2024.12.11 11:24:53]-[APP.SND.D]-> 1 Time until data sending 25
+[2024.12.11 11:24:54]-[AXL.CLBR]-> Waiting... (Fix:0 Ign:1 Mov:0 HDOP:1 PDOP:1)
+[2024.12.11 11:24:54]-[APP.SND.TCP]-> Rec refresh cnt:3
+
+-----------------------------------------------
+Date: 11.12.2024 - 12:24:57
+End log file
